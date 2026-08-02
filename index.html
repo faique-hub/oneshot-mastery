@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Revise. — Class 10 Exam Vault</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <button class="hamburger" id="hamburgerBtn" title="Subjects"><svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  <div class="brand"><div class="mark">Revise<span class="dot">.</span></div><div class="tag">Class 10 exam vault</div></div>
+  <div class="search-wrap">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="#8A93A8" stroke-width="2"/><path d="M21 21l-4-4" stroke="#8A93A8" stroke-width="2" stroke-linecap="round"/></svg>
+    <input id="searchInput" placeholder="Search notes, mind maps, PYQs...">
+    <div class="search-results" id="searchResults" style="display:none;"></div>
+  </div>
+  <div class="header-stats"><div class="hstat"><div class="n" id="statTotal">0</div><div class="l">Files</div></div><div class="hstat"><div class="n" id="statSubjects">0</div><div class="l">Subjects</div></div></div>
+</header>
+<div class="layout">
+  <div class="sidebar-scrim" id="sidebarScrim"></div>
+  <aside class="sidebar" id="sidebar">
+    <button class="sidebar-close" id="sidebarClose">&times;</button>
+    <div class="sidebar-title">Subjects</div>
+    <div class="subject-list" id="subjectList"></div>
+  </aside>
+  <main class="main">
+    <div class="subject-header"><div><h1 id="subjectTitle">—</h1><div class="sub" id="subjectSub"></div></div></div>
+    <div class="tabs" id="categoryTabs"></div>
+    <div class="cards-grid" id="cardsGrid"></div>
+  </main>
+</div>
+<div id="modalRoot"></div>
+<script src="js/content.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
