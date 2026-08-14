@@ -81,14 +81,6 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "English",
-    "title": "First Flight",
-    "filename": "First Flight.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/First Flight.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
     "title": "Fog Notes",
     "filename": "Fog - Notes.pdf",
     "ext": "pdf",
@@ -101,14 +93,6 @@ window.REVISE_CONTENT = [
     "filename": "Footprints without Feet - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/English/Footprints without Feet - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Footprints without feet",
-    "filename": "Footprints without feet.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Footprints without feet.pdf"
   },
   {
     "type": "note",
@@ -173,14 +157,6 @@ window.REVISE_CONTENT = [
     "filename": "Mijbil The Otter  - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/English/Mijbil The Otter  - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Poems theme",
-    "filename": "Poems theme.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Poems theme.pdf"
   },
   {
     "type": "note",
@@ -256,182 +232,6 @@ window.REVISE_CONTENT = [
   },
   {
     "type": "note",
-    "subject": "English",
-    "title": "Theme of all chapter class 10 poem",
-    "filename": "Theme of all chapter class 10 poem.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Theme of all chapter class 10 poem.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Theme of all chapters",
-    "filename": "Theme of all chapters.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Theme of all chapters.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Unique Words First Flight",
-    "filename": "Unique Words - First Flight.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Unique Words - First Flight.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Unique Words Footprints without Feet",
-    "filename": "Unique Words - Footprints without Feet.pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/Unique Words - Footprints without Feet.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "English",
-    "title": "Writing section(letter writing+analytical paragraph)",
-    "filename": "writing section(letter writing+analytical paragraph).pdf",
-    "ext": "pdf",
-    "path": "content/notes/English/writing section(letter writing+analytical paragraph).pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Balgobin bahagat",
-    "filename": "Important question of Balgobin bahagat.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Balgobin bahagat.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Ek kahni yeh bhi",
-    "filename": "Important question of Ek kahni yeh bhi.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Ek kahni yeh bhi.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Lakhnavi andaj",
-    "filename": "Important question of Lakhnavi andaj.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Lakhnavi andaj.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Netaji ka chashma",
-    "filename": "Important question of Netaji ka chashma.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Netaji ka chashma.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Nobatkhane mai ibadat",
-    "filename": "Important question of Nobatkhane mai ibadat.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Nobatkhane mai ibadat.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Saingatkar",
-    "filename": "Important question of Saingatkar.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Saingatkar.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Sanskriti",
-    "filename": "Important question of Sanskriti.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Sanskriti.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Utsa, At nahi rahi hai",
-    "filename": "Important question of Utsa, At nahi rahi hai.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Utsa, At nahi rahi hai.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important question of Ya danturit muskan, Fasal",
-    "filename": "Important question of Ya danturit muskan, Fasal.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important question of Ya danturit muskan, Fasal.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Atamkatha",
-    "filename": "Important questions of Atamkatha.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Atamkatha.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Mai kyu likhta hun",
-    "filename": "Important questions of Mai kyu likhta hun.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Mai kyu likhta hun.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Mata ka anchal",
-    "filename": "Important questions of Mata ka anchal.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Mata ka anchal.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Ram lakshman parshuram savad",
-    "filename": "Important questions of Ram lakshman parshuram savad.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Ram lakshman parshuram savad.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Sana hath jodi",
-    "filename": "Important questions of Sana hath jodi.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Sana hath jodi.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Hindi",
-    "title": "Important questions of Surdas ke pad",
-    "filename": "Important questions of Surdas ke pad.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Hindi/Important questions of Surdas ke pad.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "AP important questions",
-    "filename": "AP important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/AP important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Areas Related to circle important question",
-    "filename": "Areas Related to circle important question.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Areas Related to circle important question.pdf"
-  },
-  {
-    "type": "note",
     "subject": "Mathematics",
     "title": "Areas Related to Circles Notes",
     "filename": "Areas Related to Circles - Notes.pdf",
@@ -457,26 +257,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Mathematics",
-    "title": "Circles important question",
-    "filename": "Circles important question.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Circles important question.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
     "title": "Coordinate Geometry Notes",
     "filename": "Coordinate Geometry - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Mathematics/Coordinate Geometry - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Coordinate Geometry important questions",
-    "filename": "Coordinate Geometry important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Coordinate Geometry important questions.pdf"
   },
   {
     "type": "note",
@@ -489,26 +273,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Mathematics",
-    "title": "Pair of linear equation in two variable important questions",
-    "filename": "Pair of linear equation in two variable important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Pair of linear equation in two variable important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
     "title": "Pair of Linear equation in two variables Notes",
     "filename": "Pair of Linear equation in two variables - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Mathematics/Pair of Linear equation in two variables - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Polynomial important questions",
-    "filename": "Polynomial important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Polynomial important questions.pdf"
   },
   {
     "type": "note",
@@ -529,26 +297,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Mathematics",
-    "title": "Probability important questions",
-    "filename": "Probability important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Probability important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
     "title": "Quadratic Equations Notes",
     "filename": "Quadratic Equations - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Mathematics/Quadratic Equations - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Quadratic Equations important questions",
-    "filename": "Quadratic Equations important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Quadratic Equations important questions.pdf"
   },
   {
     "type": "note",
@@ -561,26 +313,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Mathematics",
-    "title": "Real Numbers important questions",
-    "filename": "Real Numbers important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Real Numbers important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
     "title": "Some Applications of Trigonometry Notes",
     "filename": "Some Applications of Trigonometry - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Mathematics/Some Applications of Trigonometry - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Some applications of Trigonometry important questions",
-    "filename": "Some applications of Trigonometry important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Some applications of Trigonometry important questions.pdf"
   },
   {
     "type": "note",
@@ -593,26 +329,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Mathematics",
-    "title": "Statistics important questions",
-    "filename": "Statistics important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Statistics important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
     "title": "Surface Areas and Volumes Notes",
     "filename": "Surface Areas and Volumes - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Mathematics/Surface Areas and Volumes - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Surface Areas and Volumes important questions",
-    "filename": "Surface Areas and Volumes important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Surface Areas and Volumes important questions.pdf"
   },
   {
     "type": "note",
@@ -624,43 +344,11 @@ window.REVISE_CONTENT = [
   },
   {
     "type": "note",
-    "subject": "Mathematics",
-    "title": "Triangles important questions",
-    "filename": "Triangles important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Triangles important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Mathematics",
-    "title": "Trigonometry important questions",
-    "filename": "Trigonometry important questions.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Mathematics/Trigonometry important questions.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Acids , Bases And Salts",
-    "filename": "Acids , Bases And Salts.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Acids , Bases And Salts.pdf"
-  },
-  {
-    "type": "note",
     "subject": "Science",
     "title": "Acids, Bases and Salts Notes",
     "filename": "Acids, Bases and Salts - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/Acids, Bases and Salts - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Carbon And Its Compound",
-    "filename": "Carbon And Its Compound.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Carbon And Its Compound.pdf"
   },
   {
     "type": "note",
@@ -681,26 +369,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Science",
-    "title": "Chemical Reactions and Equations",
-    "filename": "Chemical Reactions and Equations.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Chemical Reactions and Equations.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
     "title": "Control and Coordination Notes",
     "filename": "Control and Coordination - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/Control and Coordination - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Control and Coordination",
-    "filename": "Control and Coordination.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Control and Coordination.pdf"
   },
   {
     "type": "note",
@@ -713,26 +385,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Science",
-    "title": "Electricity",
-    "filename": "Electricity.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Electricity.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
     "title": "Heredity and Evolution Notes",
     "filename": "Heredity and Evolution - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/Heredity and Evolution - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Heredity",
-    "filename": "Heredity.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Heredity.pdf"
   },
   {
     "type": "note",
@@ -745,26 +401,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Science",
-    "title": "How do Organisms Reproduce",
-    "filename": "How do Organisms Reproduce.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/How do Organisms Reproduce.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
     "title": "Life Processes Notes",
     "filename": "Life Processes - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/Life Processes - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Life Processes",
-    "filename": "Life Processes.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Life Processes.pdf"
   },
   {
     "type": "note",
@@ -777,34 +417,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Science",
-    "title": "Light",
-    "filename": "Light.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Light.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Magnetic Effect of Electric Current",
-    "filename": "Magnetic Effect of Electric Current.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Magnetic Effect of Electric Current.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
     "title": "Magnetic Effects of Electric Current Notes",
     "filename": "Magnetic Effects of Electric Current - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/Magnetic Effects of Electric Current - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "Metals And Non Metals",
-    "filename": "Metals And Non Metals.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Metals And Non Metals.pdf"
   },
   {
     "type": "note",
@@ -825,26 +441,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Science",
-    "title": "Our Environment",
-    "filename": "Our Environment.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/Our Environment.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
     "title": "The Human Eye And The Colourful World Notes",
     "filename": "The Human Eye And The Colourful World - Notes.pdf",
     "ext": "pdf",
     "path": "content/notes/Science/The Human Eye And The Colourful World - Notes.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Science",
-    "title": "The Human Eye and the Colourful World",
-    "filename": "The Human Eye and the Colourful World.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Science/The Human Eye and the Colourful World.pdf"
   },
   {
     "type": "note",
@@ -881,14 +481,6 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Gender , Religion and Caste",
-    "filename": "Gender , Religion and Caste.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Social Science/Gender , Religion and Caste.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Social Science",
     "title": "Gender, Religion and Caste",
     "filename": "Gender, Religion and Caste.pdf",
     "ext": "pdf",
@@ -905,18 +497,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Globalization and the Indian Economy",
-    "filename": "Globalization and the Indian Economy.pdf",
+    "title": "Manufacturing Industries",
+    "filename": "Manufacturing Industries.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Globalization and the Indian Economy.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Social Science",
-    "title": "Manufacturing industries",
-    "filename": "Manufacturing industries.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Social Science/Manufacturing industries.pdf"
+    "path": "content/notes/Social Science/Manufacturing Industries.pdf"
   },
   {
     "type": "note",
@@ -961,18 +545,18 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Power sharing",
-    "filename": "Power sharing.pdf",
+    "title": "Power Sharing",
+    "filename": "Power Sharing.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Power sharing.pdf"
+    "path": "content/notes/Social Science/Power Sharing.pdf"
   },
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Print Culture and the Modern World",
-    "filename": "Print Culture and the Modern World.pdf",
+    "title": "Print Culture and The Modern World",
+    "filename": "Print Culture and The Modern World.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Print Culture and the Modern World.pdf"
+    "path": "content/notes/Social Science/Print Culture and The Modern World.pdf"
   },
   {
     "type": "note",
@@ -1005,14 +589,6 @@ window.REVISE_CONTENT = [
     "filename": "The Age of Industrialisation.pdf",
     "ext": "pdf",
     "path": "content/notes/Social Science/The Age of Industrialisation.pdf"
-  },
-  {
-    "type": "note",
-    "subject": "Social Science",
-    "title": "The Making of a Global World",
-    "filename": "The Making of a Global World.pdf",
-    "ext": "pdf",
-    "path": "content/notes/Social Science/The Making of a Global World.pdf"
   },
   {
     "type": "note",
