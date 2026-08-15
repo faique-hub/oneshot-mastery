@@ -705,14 +705,6 @@ window.REVISE_CONTENT = [
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Ram lakshman parshuram savad",
-    "filename": "Important questions of Ram lakshman parshuram savad.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Ram lakshman parshuram savad.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Hindi",
     "title": "Important questions of Sana hath jodi",
     "filename": "Important questions of Sana hath jodi.pdf",
     "ext": "pdf",
@@ -725,6 +717,126 @@ window.REVISE_CONTENT = [
     "filename": "Important questions of Surdas ke pad.pdf",
     "ext": "pdf",
     "path": "content/important-questions/Hindi/Important questions of Surdas ke pad.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "English",
+    "title": "English SP 1",
+    "filename": "English - SP 1.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/English/English - SP 1.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "English",
+    "title": "English SP 2",
+    "filename": "English -SP 2.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/English/English -SP 2.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "English",
+    "title": "English SP 3",
+    "filename": "English -SP 3.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/English/English -SP 3.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Hindi",
+    "title": "Hindi SP 1",
+    "filename": "Hindi - SP 1.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Hindi/Hindi - SP 1.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Hindi",
+    "title": "Hindi SP 2",
+    "filename": "Hindi - SP 2.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Hindi/Hindi - SP 2.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Hindi",
+    "title": "Hindi SP 3",
+    "filename": "Hindi - SP 3.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Hindi/Hindi - SP 3.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Mathematics",
+    "title": "Maths SP 1",
+    "filename": "Maths - SP 1.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Mathematics/Maths - SP 1.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Mathematics",
+    "title": "Maths SP 2",
+    "filename": "Maths - SP 2.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Mathematics/Maths - SP 2.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Mathematics",
+    "title": "Maths SP 3",
+    "filename": "Maths - SP 3.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Mathematics/Maths - SP 3.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Science",
+    "title": "Science SP 1",
+    "filename": "Science - SP 1.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Science/Science - SP 1.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Science",
+    "title": "Science SP 2",
+    "filename": "Science - SP 2.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Science/Science - SP 2.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Science",
+    "title": "Science SP 3",
+    "filename": "Science - SP 3.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Science/Science - SP 3.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Social Science",
+    "title": "Social Science 1",
+    "filename": "Social Science - 1.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Social Science/Social Science - 1.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Social Science",
+    "title": "Social Science 2",
+    "filename": "Social Science - 2.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Social Science/Social Science - 2.pdf"
+  },
+  {
+    "type": "sample",
+    "subject": "Social Science",
+    "title": "Social Science 3",
+    "filename": "Social Science - 3.pdf",
+    "ext": "pdf",
+    "path": "content/sample-papers/Social Science/Social Science - 3.pdf"
   },
   {
     "type": "pyq",
