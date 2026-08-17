@@ -1412,3 +1412,53 @@ header {
   }
 
 }
+
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.site-footer {
+  text-align: center;
+  padding: 24px 16px;
+
+  background: #121828;
+  color: #8A93A8;
+
+  border-top: 1px solid #1d2438;
+
+  font-size: 13px;
+}
+
+.site-footer p {
+  margin: 4px 0;
+}
+
+.site-footer p:last-child {
+  color: #E8B75E;
+  font-weight: 500;
+}
+
+.footer-socials {
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.footer-socials a {
+  color: #E8B75E;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.footer-socials a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.footer-socials span {
+  color: #555e73;
+}
