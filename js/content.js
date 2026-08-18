@@ -497,10 +497,10 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Manufacturing Industries",
-    "filename": "Manufacturing Industries.pdf",
+    "title": "Manufacturing industries",
+    "filename": "Manufacturing industries.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Manufacturing Industries.pdf"
+    "path": "content/notes/Social Science/Manufacturing industries.pdf"
   },
   {
     "type": "note",
@@ -545,18 +545,18 @@ window.REVISE_CONTENT = [
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Power Sharing",
-    "filename": "Power Sharing.pdf",
+    "title": "Power sharing",
+    "filename": "Power sharing.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Power Sharing.pdf"
+    "path": "content/notes/Social Science/Power sharing.pdf"
   },
   {
     "type": "note",
     "subject": "Social Science",
-    "title": "Print Culture and The Modern World",
-    "filename": "Print Culture and The Modern World.pdf",
+    "title": "Print Culture and the Modern World",
+    "filename": "Print Culture and the Modern World.pdf",
     "ext": "pdf",
-    "path": "content/notes/Social Science/Print Culture and The Modern World.pdf"
+    "path": "content/notes/Social Science/Print Culture and the Modern World.pdf"
   },
   {
     "type": "note",
@@ -701,6 +701,14 @@ window.REVISE_CONTENT = [
     "filename": "Important questions of Mata ka anchal.pdf",
     "ext": "pdf",
     "path": "content/important-questions/Hindi/Important questions of Mata ka anchal.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Hindi",
+    "title": "Important questions of Ram lakshman parshuram savad",
+    "filename": "Important questions of Ram lakshman parshuram savad.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Hindi/Important questions of Ram lakshman parshuram savad.pdf"
   },
   {
     "type": "important",
