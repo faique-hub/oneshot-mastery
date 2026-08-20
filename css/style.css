@@ -1249,17 +1249,13 @@ header {
   /* Preview and Download buttons share one row */
   .file-actions {
     display: grid;
-
     grid-template-columns: 1fr 1fr;
-
     gap: 8px;
-
     width: 100%;
   }
 
   .file-btn {
     width: 100%;
-
     min-width: 0;
   }
 
@@ -1270,49 +1266,37 @@ header {
   /* PDF popup uses almost full phone screen */
   .overlay {
     padding: 8px;
-
     align-items: stretch;
   }
 
   .modal {
     max-height: calc(100dvh - 16px);
-
     padding: 15px;
-
     margin: auto 0;
-
     border-radius: 14px;
   }
 
   .modal h2 {
     margin-bottom: 12px;
-
     font-size: 18px;
   }
 
   .preview-frame {
     height: 64dvh;
-
     border-radius: 8px;
   }
 
   /* Close, Open and Download buttons */
   .modal-actions {
     display: grid;
-
     grid-template-columns: repeat(3, 1fr);
-
     gap: 7px;
   }
-
   .modal-actions .btn {
     width: 100%;
-
     padding: 9px 8px;
-
     font-size: 11.5px;
   }
-
 }
 
 
@@ -1322,52 +1306,40 @@ header {
    --------------------------------------------------------- */
 
 @media (max-width: 390px) {
-
   header {
     padding: 9px 10px;
   }
-
   .brand .mark {
     font-size: 18px;
   }
-
   .search-wrap input {
     font-size: 12px;
   }
-
   .main {
     padding-left: 10px;
     padding-right: 10px;
   }
-
   .subject-header h1 {
     font-size: 21px;
   }
-
   .card {
     padding: 13px;
   }
-
   .card-title {
     font-size: 13.5px;
   }
-
   .card-badge {
     max-width: 42%;
-
     font-size: 9px;
   }
-
   /* Stack buttons vertically on very small phones */
   .file-actions,
   .modal-actions {
     grid-template-columns: 1fr;
   }
-
   .preview-frame {
     height: 60dvh;
   }
-
 }
 
 
@@ -1377,11 +1349,9 @@ header {
    --------------------------------------------------------- */
 
 @media (hover: none) {
-
   .card:hover {
     transform: none;
   }
-
   .file-btn,
   .tab,
   .subject-item,
@@ -1389,7 +1359,6 @@ header {
   .sidebar-close {
     -webkit-tap-highlight-color: transparent;
   }
-
 }
 
 
@@ -1398,19 +1367,15 @@ header {
    --------------------------------------------------------- */
 
 @media (max-height: 500px) and (orientation: landscape) {
-
   header {
     position: relative;
   }
-
   .preview-frame {
     height: 58dvh;
   }
-
   .modal {
     max-height: 96dvh;
   }
-
 }
 
 
@@ -1421,12 +1386,9 @@ header {
 .site-footer {
   text-align: center;
   padding: 24px 16px;
-
   background: #121828;
   color: #8A93A8;
-
   border-top: 1px solid #1d2438;
-
   font-size: 13px;
 }
 
@@ -1461,4 +1423,54 @@ header {
 
 .footer-socials span {
   color: #555e73;
+}
+
+/* =========================
+   BACK TO TOP BUTTON
+   ========================= */
+
+#backToTop {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+
+  width: 42px;
+  height: 42px;
+
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 50%;
+
+  /* Dark translucent glass */
+  background: rgba(30, 30, 30, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+
+  cursor: pointer;
+
+  display: none;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+
+  z-index: 1000;
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease,
+    border-color 0.2s ease;
+}
+
+#backToTop:hover {
+  background: rgba(50, 50, 50, 0.65);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+#backToTop:active {
+  transform: scale(0.94);
 }

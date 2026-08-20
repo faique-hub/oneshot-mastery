@@ -486,3 +486,26 @@
   renderWebsite();
 
 })();
+
+// =========================
+// BACK TO TOP BUTTON
+// =========================
+
+const backToTop = document.getElementById("backToTop");
+
+// Show button after scrolling 300px
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 300) {
+    backToTop.style.display = "flex";
+  } else {
+    backToTop.style.display = "none";
+  }
+});
+
+// Smooth scroll to top
+backToTop.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+});
