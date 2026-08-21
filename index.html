@@ -38,6 +38,10 @@
       <input id="searchInput" placeholder="Search study materials...">
       <div class="search-results" id="searchResults" style="display:none;"></div>
     </div>
+
+    <!-- Settings Button -->
+    <button class="settings-btn" id="settingsBtn" title="Settings">⚙️</button>  
+
     <!-- Website Stats -->
     <div class="header-stats">
       <div class="hstat">
@@ -50,6 +54,34 @@
       </div>
     </div>
   </header>
+
+<!-- Settings Panel -->
+<div class="settings-panel" id="settingsPanel">
+  <div class="settings-box">
+
+    <div class="settings-header">
+      <h3>Settings</h3>
+      <button id="settingsClose">&times;</button>
+    </div>
+
+    <div class="setting-row">
+      <span>Theme</span>
+      <button id="themeToggle">Light Mode</button>
+    </div>
+
+    <div class="setting-row">
+      <span>Animations</span>
+      <button id="animationToggle">On</button>
+    </div>
+
+    <div class="setting-row">
+      <span>Install App</span>
+      <button id="installAppBtn">Install</button>
+    </div>
+
+  </div>
+</div>
+
   <!-- MAIN LAYOUT -->
   <div class="layout">
     <!-- Mobile Sidebar Background -->

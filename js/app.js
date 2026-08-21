@@ -509,3 +509,124 @@ backToTop.addEventListener("click", () => {
     behavior: "smooth"
   });
 });
+
+// =========================
+// SETTINGS
+// =========================
+
+const settingsBtn = document.getElementById("settingsBtn");
+const settingsPanel = document.getElementById("settingsPanel");
+const settingsClose = document.getElementById("settingsClose");
+const themeToggle = document.getElementById("themeToggle");
+
+// Open Settings
+settingsBtn.addEventListener("click", () => {
+  settingsPanel.classList.add("active");
+});
+
+// Close Settings
+settingsClose.addEventListener("click", () => {
+  settingsPanel.classList.remove("active");
+});
+
+// Close when clicking outside the box
+settingsPanel.addEventListener("click", (e) => {
+  if (e.target === settingsPanel) {
+    settingsPanel.classList.remove("active");
+  }
+});
+
+// =========================
+// THEME TOGGLE
+// =========================
+
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme === "light") {
+  document.body.classList.add("light-theme");
+  themeToggle.textContent = "Dark Mode";
+}
+
+themeToggle.addEventListener("click", () => {
+  document.body.classList.toggle("light-theme");
+
+  const isLight = document.body.classList.contains("light-theme");
+
+  if (isLight) {
+    localStorage.setItem("theme", "light");
+    themeToggle.textContent = "Dark Mode";
+  } else {
+    localStorage.setItem("theme", "dark");
+    themeToggle.textContent = "Light Mode";
+  }
+});
+
+// =========================
+// ANIMATION TOGGLE
+// =========================
+
+const animationToggle = document.getElementById("animationToggle");
+
+// Load saved preference
+const savedAnimations = localStorage.getItem("animations");
+
+if (savedAnimations === "off") {
+  document.body.classList.add("no-animations");
+  animationToggle.textContent = "Off";
+}
+
+// Toggle animations
+animationToggle.addEventListener("click", () => {
+  document.body.classList.toggle("no-animations");
+
+  const animationsOff =
+    document.body.classList.contains("no-animations");
+
+  if (animationsOff) {
+    localStorage.setItem("animations", "off");
+    animationToggle.textContent = "Off";
+  } else {
+    localStorage.setItem("animations", "on");
+    animationToggle.textContent = "On";
+  }
+});
+
+// =========================
+// SERVICE WORKER
+// =========================
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./service-worker.js");
+  });
+}
+
+// =========================
+// INSTALL APP
+// =========================
+
+let deferredPrompt;
+
+const installAppBtn = document.getElementById("installAppBtn");
+
+// Install prompt ready hone par
+window.addEventListener("beforeinstallprompt", (event) => {
+  event.preventDefault();
+  deferredPrompt = event;
+
+  installAppBtn.disabled = false;
+});
+
+// Install button click
+installAppBtn.addEventListener("click", async () => {
+  if (!deferredPrompt) {
+    alert("App installation is not available right now.");
+    return;
+  }
+
+  deferredPrompt.prompt();
+
+  await deferredPrompt.userChoice;
+
+  deferredPrompt = null;
+});
