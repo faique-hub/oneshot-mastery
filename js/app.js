@@ -235,7 +235,10 @@
             '" download>' +
             'Download' +
           '</a>' +
-        '</div>';
+          '<button class="file-btn copy-link-button">' +
+            'Copy Link' +
+          '</button>' +
+          '</div>';
 
       const previewButton =
         card.querySelector('.preview-button');
@@ -244,7 +247,23 @@
         event.stopPropagation();
         openPdfPreview(file);
       };
+      const copyLinkButton =
+        card.querySelector('.copy-link-button');
 
+      copyLinkButton.onclick = async function (event) {
+        event.stopPropagation();
+
+        const pdfLink = new URL(file.path, window.location.href).href;
+
+        await navigator.clipboard.writeText(pdfLink);
+
+        copyLinkButton.textContent = 'Copied ✓';
+
+        setTimeout(() => {
+          copyLinkButton.textContent = 'Copy Link';
+        }, 1500);
+      };
+      
       cardsGrid.appendChild(card);
     });
   }
