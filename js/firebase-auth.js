@@ -39,5 +39,12 @@ window.downloadWithGoogleSignIn = async function (pdfPath) {
 
   } catch (error) {
     console.error("Google Sign-In Error:", error);
+
+    alert(
+      "Sign-In Error:\n" +
+      error.code +
+      "\n\n" +
+      error.message
+   );
   }
 };
