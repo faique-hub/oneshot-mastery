@@ -230,7 +230,7 @@
           '<button class="file-btn preview-button">' +
             'Preview / Open' +
           '</button>' +
-          '<a class="file-btn" href="' +
+          '<a class="file-btn download-button" href="' +
             encodeURI(file.path) +
             '" download>' +
             'Download' +
@@ -247,6 +247,19 @@
         event.stopPropagation();
         openPdfPreview(file);
       };
+
+      const downloadButton =
+        card.querySelector('.download-button');
+
+      downloadButton.onclick = function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+
+        if (window.downloadWithGoogleSignIn) {
+          window.downloadWithGoogleSignIn(file.path);
+        }
+      };
+
       const copyLinkButton =
         card.querySelector('.copy-link-button');
 
@@ -345,7 +358,7 @@
               '" target="_blank" rel="noopener">' +
               'Open' +
             '</a>' +
-            '<a class="btn" href="' +
+            '<a class="btn preview-download-button" href="' +
               encodeURI(file.path) +
               '" download>' +
               'Download' +
@@ -356,6 +369,18 @@
 
     document.getElementById('previewClose').onclick =
       closePdfPreview;
+
+    const previewDownloadButton =
+      modalRoot.querySelector('.preview-download-button');
+
+    previewDownloadButton.onclick = function (event) {
+      event.preventDefault();
+     event.stopPropagation();
+
+    if (window.downloadWithGoogleSignIn) {
+      window.downloadWithGoogleSignIn(file.path);
+    }
+  };
 
     document.getElementById('previewOverlay').onclick =
       function (event) {
