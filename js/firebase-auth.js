@@ -6,13 +6,15 @@ import {
   signInWithPopup
 } from "https://www.gstatic.com/firebasejs/12.18.0/firebase-auth.js";
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC9D9Ag1lDYrzPfpkAuS6yV7VuPiSI9zT8",
+  apiKey: "AIzaSyC9D9Agl1DYrzPfpkAuS6yV7VuPiSI9zT8",
   authDomain: "one-shot-mastery.firebaseapp.com",
   projectId: "one-shot-mastery",
   storageBucket: "one-shot-mastery.firebasestorage.app",
   messagingSenderId: "27279348304",
-  appId: "1:27279348304:web:505be12e56a163dc6eb755"
+  appId: "1:27279348304:web:505be12e56a163dc6eb755",
+  measurementId: "G-NBJFK92NFP"
 };
 
 const app = initializeApp(firebaseConfig);
