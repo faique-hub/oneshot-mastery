@@ -727,6 +727,126 @@ window.REVISE_CONTENT = [
     "path": "content/important-questions/Hindi/Important questions of Surdas ke pad.pdf"
   },
   {
+    "type": "toppers_answers",
+    "subject": "English",
+    "title": "English 2023 TA",
+    "filename": "English 2023 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/English/English 2023 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "English",
+    "title": "English 2024 TA",
+    "filename": "English 2024 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/English/English 2024 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "English",
+    "title": "English 2025 TA",
+    "filename": "English 2025 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/English/English 2025 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Hindi",
+    "title": "Hindi 2023 TA",
+    "filename": "Hindi 2023 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Hindi/Hindi 2023 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Hindi",
+    "title": "Hindi 2024 TA",
+    "filename": "Hindi 2024 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Hindi/Hindi 2024 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Hindi",
+    "title": "Hindi 2025 TA",
+    "filename": "Hindi 2025 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Hindi/Hindi 2025 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Mathematics",
+    "title": "Maths 2023 TA",
+    "filename": "Maths 2023 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Mathematics/Maths 2023 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Mathematics",
+    "title": "Maths 2024 TA",
+    "filename": "Maths 2024 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Mathematics/Maths 2024 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Mathematics",
+    "title": "Maths 2025 TA",
+    "filename": "Maths 2025 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Mathematics/Maths 2025 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Science",
+    "title": "Science 2023 TA",
+    "filename": "Science 2023 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Science/Science 2023 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Science",
+    "title": "Science 2024 TA",
+    "filename": "Science 2024 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Science/Science 2024 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Science",
+    "title": "Science 2025 TA",
+    "filename": "Science 2025 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Science/Science 2025 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Social Science",
+    "title": "Social Science 2023 TA",
+    "filename": "Social Science 2023 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Social Science/Social Science 2023 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Social Science",
+    "title": "Social Science 2024 TA",
+    "filename": "Social Science 2024 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Social Science/Social Science 2024 TA .pdf"
+  },
+  {
+    "type": "toppers_answers",
+    "subject": "Social Science",
+    "title": "Social Science 2025 TA",
+    "filename": "Social Science 2025 TA .pdf",
+    "ext": "pdf",
+    "path": "content/toppers-answer-sheets/Social Science/Social Science 2025 TA .pdf"
+  },
+  {
     "type": "sample",
     "subject": "English",
     "title": "English SP 1",
