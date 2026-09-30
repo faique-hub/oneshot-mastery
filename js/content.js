@@ -727,6 +727,46 @@ window.REVISE_CONTENT = [
     "path": "content/important-questions/Hindi/Important questions of Surdas ke pad.pdf"
   },
   {
+    "type": "assertion_reason",
+    "subject": "English",
+    "title": "English Assertion & Reason",
+    "filename": "English-Assertion & Reason.pdf",
+    "ext": "pdf",
+    "path": "content/assertion-reason/English/English-Assertion & Reason.pdf"
+  },
+  {
+    "type": "assertion_reason",
+    "subject": "Hindi",
+    "title": "Hindi Assertion & Reason",
+    "filename": "Hindi-Assertion & Reason.pdf",
+    "ext": "pdf",
+    "path": "content/assertion-reason/Hindi/Hindi-Assertion & Reason.pdf"
+  },
+  {
+    "type": "assertion_reason",
+    "subject": "Mathematics",
+    "title": "Maths Assertion & Reason",
+    "filename": "Maths-Assertion & Reason.pdf",
+    "ext": "pdf",
+    "path": "content/assertion-reason/Mathematics/Maths-Assertion & Reason.pdf"
+  },
+  {
+    "type": "assertion_reason",
+    "subject": "Science",
+    "title": "Science Assertion & Reason",
+    "filename": "Science-Assertion & Reason.pdf",
+    "ext": "pdf",
+    "path": "content/assertion-reason/Science/Science-Assertion & Reason.pdf"
+  },
+  {
+    "type": "assertion_reason",
+    "subject": "Social Science",
+    "title": "Social Science Assertion & Reason",
+    "filename": "Social Science-Assertion & Reason.pdf",
+    "ext": "pdf",
+    "path": "content/assertion-reason/Social Science/Social Science-Assertion & Reason.pdf"
+  },
+  {
     "type": "toppers_answers",
     "subject": "English",
     "title": "English 2023 TA",
@@ -1517,5 +1557,45 @@ window.REVISE_CONTENT = [
     "filename": "Social Science - 2026 Set - 3.pdf",
     "ext": "pdf",
     "path": "content/pyqs/Social Science/Social Science - 2026 Set - 3.pdf"
+  },
+  {
+    "type": "question_bank",
+    "subject": "English",
+    "title": "English Question Bank",
+    "filename": "English-Question Bank.pdf",
+    "ext": "pdf",
+    "path": "content/question-bank/English/English-Question Bank.pdf"
+  },
+  {
+    "type": "question_bank",
+    "subject": "Hindi",
+    "title": "Hindi Question Bank",
+    "filename": "Hindi-Question Bank.pdf",
+    "ext": "pdf",
+    "path": "content/question-bank/Hindi/Hindi-Question Bank.pdf"
+  },
+  {
+    "type": "question_bank",
+    "subject": "Mathematics",
+    "title": "Maths Question Bank",
+    "filename": "Maths-Question Bank.pdf",
+    "ext": "pdf",
+    "path": "content/question-bank/Mathematics/Maths-Question Bank.pdf"
+  },
+  {
+    "type": "question_bank",
+    "subject": "Science",
+    "title": "Science Question Bank",
+    "filename": "Science-Question Bank.pdf",
+    "ext": "pdf",
+    "path": "content/question-bank/Science/Science-Question Bank.pdf"
+  },
+  {
+    "type": "question_bank",
+    "subject": "Social Science",
+    "title": "Social Science Question Bank",
+    "filename": "Social Science-Question Bank.pdf",
+    "ext": "pdf",
+    "path": "content/question-bank/Social Science/Social Science-Question Bank.pdf"
   }
 ];
