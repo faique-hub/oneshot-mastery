@@ -608,123 +608,755 @@ window.REVISE_CONTENT = [
   },
   {
     "type": "important",
-    "subject": "Hindi",
-    "title": "Important question of Balgobin bahagat",
-    "filename": "Important question of Balgobin bahagat.pdf",
+    "subject": "English",
+    "title": "A Letter to God IQ",
+    "filename": "A Letter to God - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Balgobin bahagat.pdf"
+    "path": "content/important-questions/English/A Letter to God - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "A Question of Trust IQ",
+    "filename": "A Question of Trust - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/A Question of Trust - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "A Tiger in the Zoo IQ",
+    "filename": "A Tiger in the Zoo - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/A Tiger in the Zoo - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "A Triumph of Surgery IQ",
+    "filename": "A Triumph of Surgery - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/A Triumph of Surgery - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Amanda! IQ",
+    "filename": "Amanda! - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Amanda! - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Bholi IQ",
+    "filename": "Bholi - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Bholi - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Dust of Snow IQ",
+    "filename": "Dust of Snow - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Dust of Snow - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Fire and Ice IQ",
+    "filename": "Fire and Ice - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Fire and Ice - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Fog IQ",
+    "filename": "Fog - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Fog - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Footprints Without Feet IQ",
+    "filename": "Footprints Without Feet - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Footprints Without Feet - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "For Anne Gregory IQ",
+    "filename": "For Anne Gregory - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/For Anne Gregory - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "From the Diary of Anne Frank IQ",
+    "filename": "From the Diary of Anne Frank - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/From the Diary of Anne Frank - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Glimpses of India IQ",
+    "filename": "Glimpses of India - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Glimpses of India - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "How to Tell Wild Animals IQ",
+    "filename": "How to Tell Wild Animals - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/How to Tell Wild Animals - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Madam Rides the Bus IQ",
+    "filename": "Madam Rides the Bus - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Madam Rides the Bus - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Mijbil the Otter IQ",
+    "filename": "Mijbil the Otter - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Mijbil the Otter - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Nelson Mandela Long Walk to Freedom IQ",
+    "filename": "Nelson Mandela - Long Walk to Freedom - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Nelson Mandela - Long Walk to Freedom - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Stories About Flying IQ",
+    "filename": "Stories About Flying - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Stories About Flying - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Ball Poem IQ",
+    "filename": "The Ball Poem - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Ball Poem - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Book that Saved the Earth IQ",
+    "filename": "The Book that Saved the Earth - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Book that Saved the Earth - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Making of a Scientist IQ",
+    "filename": "The Making of a Scientist - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Making of a Scientist - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Midnight Visitor IQ",
+    "filename": "The Midnight Visitor - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Midnight Visitor - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Necklace IQ",
+    "filename": "The Necklace - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Necklace - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Proposal IQ",
+    "filename": "The Proposal - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Proposal - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Sermon at Benares IQ",
+    "filename": "The Sermon at Benares - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Sermon at Benares - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Tale of Custard the Dragon IQ",
+    "filename": "The Tale of Custard the Dragon - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Tale of Custard the Dragon - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Thief's Story IQ",
+    "filename": "The Thief's Story - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Thief's Story - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "The Trees IQ",
+    "filename": "The Trees - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/The Trees - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Ek kahni yeh bhi",
-    "filename": "Important question of Ek kahni yeh bhi.pdf",
+    "title": "Atamkatha IQ",
+    "filename": "Atamkatha - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Ek kahni yeh bhi.pdf"
+    "path": "content/important-questions/Hindi/Atamkatha - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Lakhnavi andaj",
-    "filename": "Important question of Lakhnavi andaj.pdf",
+    "title": "Balgobin bahagat IQ",
+    "filename": "Balgobin bahagat - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Lakhnavi andaj.pdf"
+    "path": "content/important-questions/Hindi/Balgobin bahagat - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Netaji ka chashma",
-    "filename": "Important question of Netaji ka chashma.pdf",
+    "title": "Ek kahni yeh bhi IQ",
+    "filename": "Ek kahni yeh bhi - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Netaji ka chashma.pdf"
+    "path": "content/important-questions/Hindi/Ek kahni yeh bhi - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Nobatkhane mai ibadat",
-    "filename": "Important question of Nobatkhane mai ibadat.pdf",
+    "title": "Lakhnavi andaj IQ",
+    "filename": "Lakhnavi andaj - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Nobatkhane mai ibadat.pdf"
+    "path": "content/important-questions/Hindi/Lakhnavi andaj - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Saingatkar",
-    "filename": "Important question of Saingatkar.pdf",
+    "title": "Mai kyu likhta hun IQ",
+    "filename": "Mai kyu likhta hun - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Saingatkar.pdf"
+    "path": "content/important-questions/Hindi/Mai kyu likhta hun - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Sanskriti",
-    "filename": "Important question of Sanskriti.pdf",
+    "title": "Mata ka anchal IQ",
+    "filename": "Mata ka anchal - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Sanskriti.pdf"
+    "path": "content/important-questions/Hindi/Mata ka anchal - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Utsa, At nahi rahi hai",
-    "filename": "Important question of Utsa, At nahi rahi hai.pdf",
+    "title": "Netaji ka chashma IQ",
+    "filename": "Netaji ka chashma - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Utsa, At nahi rahi hai.pdf"
+    "path": "content/important-questions/Hindi/Netaji ka chashma - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important question of Ya danturit muskan, Fasal",
-    "filename": "Important question of Ya danturit muskan, Fasal.pdf",
+    "title": "Nobatkhane mai ibadat IQ",
+    "filename": "Nobatkhane mai ibadat - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important question of Ya danturit muskan, Fasal.pdf"
+    "path": "content/important-questions/Hindi/Nobatkhane mai ibadat - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Atamkatha",
-    "filename": "Important questions of Atamkatha.pdf",
+    "title": "Ram lakshman parshuram savad IQ",
+    "filename": "Ram lakshman parshuram savad - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Atamkatha.pdf"
+    "path": "content/important-questions/Hindi/Ram lakshman parshuram savad - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Mai kyu likhta hun",
-    "filename": "Important questions of Mai kyu likhta hun.pdf",
+    "title": "Saingatkar IQ",
+    "filename": "Saingatkar - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Mai kyu likhta hun.pdf"
+    "path": "content/important-questions/Hindi/Saingatkar - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Mata ka anchal",
-    "filename": "Important questions of Mata ka anchal.pdf",
+    "title": "Sana hath jodi IQ",
+    "filename": "Sana hath jodi - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Mata ka anchal.pdf"
+    "path": "content/important-questions/Hindi/Sana hath jodi - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Ram lakshman parshuram savad",
-    "filename": "Important questions of Ram lakshman parshuram savad.pdf",
+    "title": "Sanskriti IQ",
+    "filename": "Sanskriti - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Ram lakshman parshuram savad.pdf"
+    "path": "content/important-questions/Hindi/Sanskriti - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Sana hath jodi",
-    "filename": "Important questions of Sana hath jodi.pdf",
+    "title": "Surdas ke pad IQ",
+    "filename": "Surdas ke pad - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Sana hath jodi.pdf"
+    "path": "content/important-questions/Hindi/Surdas ke pad - IQ.pdf"
   },
   {
     "type": "important",
     "subject": "Hindi",
-    "title": "Important questions of Surdas ke pad",
-    "filename": "Important questions of Surdas ke pad.pdf",
+    "title": "Utsa, At nahi rahi hai IQ",
+    "filename": "Utsa, At nahi rahi hai - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Hindi/Important questions of Surdas ke pad.pdf"
+    "path": "content/important-questions/Hindi/Utsa, At nahi rahi hai - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Hindi",
+    "title": "Ya danturit muskan, Fasal IQ",
+    "filename": "Ya danturit muskan, Fasal - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Hindi/Ya danturit muskan, Fasal - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Areas Related to Circles IQ",
+    "filename": "Areas Related to Circles - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Areas Related to Circles - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Arithmetic Progressions IQ",
+    "filename": "Arithmetic Progressions - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Arithmetic Progressions - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Circles IQ",
+    "filename": "Circles - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Circles - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Coordinate Geometry IQ",
+    "filename": "Coordinate Geometry - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Coordinate Geometry - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Introduction to Trigonometry IQ",
+    "filename": "Introduction to Trigonometry - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Introduction to Trigonometry - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Pair of Linear Equations in Two Variables IQ",
+    "filename": "Pair of Linear Equations in Two Variables - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Pair of Linear Equations in Two Variables - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Polynomials IQ",
+    "filename": "Polynomials - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Polynomials - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Probability IQ",
+    "filename": "Probability - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Probability - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Quadratic Equations IQ",
+    "filename": "Quadratic Equations - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Quadratic Equations - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Real Numbers IQ",
+    "filename": "Real Numbers - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Real Numbers - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Some Applications of Trigonometry IQ",
+    "filename": "Some Applications of Trigonometry - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Some Applications of Trigonometry - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Statistics IQ",
+    "filename": "Statistics - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Statistics - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Surface Areas and Volumes IQ",
+    "filename": "Surface Areas and Volumes - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Surface Areas and Volumes - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Triangles IQ",
+    "filename": "Triangles - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Triangles - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Mathematics",
+    "title": "Trigonometric Identities IQ",
+    "filename": "Trigonometric Identities - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Mathematics/Trigonometric Identities - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Acids, Bases and Salts IQ",
+    "filename": "Acids, Bases and Salts - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Acids, Bases and Salts - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Carbon and its Compounds IQ",
+    "filename": "Carbon and its Compounds - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Carbon and its Compounds - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Chemical Reactions and Equations IQ",
+    "filename": "Chemical Reactions and Equations - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Chemical Reactions and Equations - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Control and Coordination IQ",
+    "filename": "Control and Coordination - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Control and Coordination - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Electricity IQ",
+    "filename": "Electricity - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Electricity - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Heredity and Evolution IQ",
+    "filename": "Heredity and Evolution - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Heredity and Evolution - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "How Do Organisms Reproduce IQ",
+    "filename": "How Do Organisms Reproduce - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/How Do Organisms Reproduce - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Life Processes IQ",
+    "filename": "Life Processes - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Life Processes - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Light Reflection and Refraction IQ",
+    "filename": "Light - Reflection and Refraction - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Light - Reflection and Refraction - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Magnetic Effects of Electric Current IQ",
+    "filename": "Magnetic Effects of Electric Current - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Magnetic Effects of Electric Current - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Metals and Non metals IQ",
+    "filename": "Metals and Non-metals - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Metals and Non-metals - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Our Environment IQ",
+    "filename": "Our Environment - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Our Environment - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "Periodic Classification of Elements IQ",
+    "filename": "Periodic Classification of Elements - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/Periodic Classification of Elements - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Science",
+    "title": "The Human Eye and the Colourful World IQ",
+    "filename": "The Human Eye and the Colourful World - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Science/The Human Eye and the Colourful World - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Agriculture IQ",
+    "filename": "Agriculture - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Agriculture - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Consumer Rights IQ",
+    "filename": "Consumer Rights - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Consumer Rights - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Development IQ",
+    "filename": "Development - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Development - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Federalism IQ",
+    "filename": "Federalism - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Federalism - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Forest and Wildlife Resources IQ",
+    "filename": "Forest and Wildlife Resources - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Forest and Wildlife Resources - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Gender, Religion and Caste IQ",
+    "filename": "Gender, Religion and Caste - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Gender, Religion and Caste - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Globalisation and the Indian Economy IQ",
+    "filename": "Globalisation and the Indian Economy - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Globalisation and the Indian Economy - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Lifelines of National Economy IQ",
+    "filename": "Lifelines of National Economy - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Lifelines of National Economy - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Manufacturing Industries IQ",
+    "filename": "Manufacturing Industries - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Manufacturing Industries - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Minerals and Energy Resources IQ",
+    "filename": "Minerals and Energy Resources - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Minerals and Energy Resources - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Money and Credit IQ",
+    "filename": "Money and Credit - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Money and Credit - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Nationalism in India IQ",
+    "filename": "Nationalism in India - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Nationalism in India - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Outcomes of Democracy IQ",
+    "filename": "Outcomes of Democracy - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Outcomes of Democracy - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Political Parties IQ",
+    "filename": "Political Parties - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Political Parties - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Power sharing IQ",
+    "filename": "Power-sharing - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Power-sharing - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Print Culture and the Modern World IQ",
+    "filename": "Print Culture and the Modern World - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Print Culture and the Modern World - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Resources and Development IQ",
+    "filename": "Resources and Development - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Resources and Development - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Sectors of the Indian Economy IQ",
+    "filename": "Sectors of the Indian Economy - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Sectors of the Indian Economy - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "The Age of Industrialisation IQ",
+    "filename": "The Age of Industrialisation - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/The Age of Industrialisation - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "The Making of a Global World IQ",
+    "filename": "The Making of a Global World - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/The Making of a Global World - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "The Rise of Nationalism in Europe IQ",
+    "filename": "The Rise of Nationalism in Europe - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/The Rise of Nationalism in Europe - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "Social Science",
+    "title": "Water Resources IQ",
+    "filename": "Water Resources - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/Social Science/Water Resources - IQ.pdf"
   },
   {
     "type": "assertion_reason",
