@@ -7,16 +7,9 @@
 
   const categories = [
     { id: 'note', label: 'Notes', badge: 'badge-note', folder: 'notes' },
-    { id: 'revision', label: 'Revision Notes', badge: 'badge-short', folder: 'revision-notes' },
-    { id: 'toppers_notes', label: 'Toppers Notes', badge: 'badge-mind', folder: 'toppers-notes' },
     { id: 'important', label: 'Important Questions', badge: 'badge-pyq', folder: 'important-questions' },
-    { id: 'value_based', label: 'Value Based Questions', badge: 'badge-note', folder: 'value-based-questions' },
-    { id: 'competency', label: 'Competency Based Questions', badge: 'badge-short', folder: 'competency-based-questions' },
-    { id: 'repeated', label: 'Most Repeated Questions', badge: 'badge-mind', folder: 'most-repeated-questions' },
-    { id: 'case_study', label: 'Case Study Based Questions', badge: 'badge-pyq', folder: 'case-study-based-questions' },
     { id: 'assertion_reason', label: 'Assertion & Reason', badge: 'badge-note', folder: 'assertion-reason' },
     { id: 'toppers_answers', label: 'Toppers Answer Sheets', badge: 'badge-short', folder: 'toppers-answer-sheets' },
-    { id: 'mcq', label: 'MCQ Questions', badge: 'badge-mind', folder: 'mcq-questions' },
     { id: 'sample', label: 'Sample Papers', badge: 'badge-pyq', folder: 'sample-papers' },
     { id: 'pyq', label: 'PYQs', badge: 'badge-note', folder: 'pyqs' },
     { id: 'question_bank', label: 'Question Bank', badge: 'badge-short', folder: 'question-bank' }
