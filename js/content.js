@@ -745,14 +745,6 @@ window.REVISE_CONTENT = [
   {
     "type": "important",
     "subject": "English",
-    "title": "Stories About Flying IQ",
-    "filename": "Stories About Flying - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/English/Stories About Flying - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "English",
     "title": "The Ball Poem IQ",
     "filename": "The Ball Poem - IQ.pdf",
     "ext": "pdf",
@@ -761,10 +753,10 @@ window.REVISE_CONTENT = [
   {
     "type": "important",
     "subject": "English",
-    "title": "The Book that Saved the Earth IQ",
-    "filename": "The Book that Saved the Earth - IQ.pdf",
+    "title": "The Book That Saved the Earth IQ",
+    "filename": "The Book That Saved the Earth - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/English/The Book that Saved the Earth - IQ.pdf"
+    "path": "content/important-questions/English/The Book That Saved the Earth - IQ.pdf"
   },
   {
     "type": "important",
@@ -829,6 +821,14 @@ window.REVISE_CONTENT = [
     "filename": "The Trees - IQ.pdf",
     "ext": "pdf",
     "path": "content/important-questions/English/The Trees - IQ.pdf"
+  },
+  {
+    "type": "important",
+    "subject": "English",
+    "title": "Two Stories About Flying IQ",
+    "filename": "Two Stories About Flying - IQ.pdf",
+    "ext": "pdf",
+    "path": "content/important-questions/English/Two Stories About Flying - IQ.pdf"
   },
   {
     "type": "important",
@@ -1064,14 +1064,6 @@ window.REVISE_CONTENT = [
   },
   {
     "type": "important",
-    "subject": "Mathematics",
-    "title": "Trigonometric Identities IQ",
-    "filename": "Trigonometric Identities - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Mathematics/Trigonometric Identities - IQ.pdf"
-  },
-  {
-    "type": "important",
     "subject": "Science",
     "title": "Acids, Bases and Salts IQ",
     "filename": "Acids, Bases and Salts - IQ.pdf",
@@ -1138,9 +1130,9 @@ window.REVISE_CONTENT = [
     "type": "important",
     "subject": "Science",
     "title": "Light Reflection and Refraction IQ",
-    "filename": "Light - Reflection and Refraction - IQ.pdf",
+    "filename": "Light-Reflection and Refraction - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/Science/Light - Reflection and Refraction - IQ.pdf"
+    "path": "content/important-questions/Science/Light-Reflection and Refraction - IQ.pdf"
   },
   {
     "type": "important",
@@ -1169,14 +1161,6 @@ window.REVISE_CONTENT = [
   {
     "type": "important",
     "subject": "Science",
-    "title": "Periodic Classification of Elements IQ",
-    "filename": "Periodic Classification of Elements - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Science/Periodic Classification of Elements - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Science",
     "title": "The Human Eye and the Colourful World IQ",
     "filename": "The Human Eye and the Colourful World - IQ.pdf",
     "ext": "pdf",
@@ -1189,14 +1173,6 @@ window.REVISE_CONTENT = [
     "filename": "Agriculture - IQ.pdf",
     "ext": "pdf",
     "path": "content/important-questions/Social Science/Agriculture - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Social Science",
-    "title": "Consumer Rights IQ",
-    "filename": "Consumer Rights - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Social Science/Consumer Rights - IQ.pdf"
   },
   {
     "type": "important",
@@ -1237,22 +1213,6 @@ window.REVISE_CONTENT = [
     "filename": "Globalisation and the Indian Economy - IQ.pdf",
     "ext": "pdf",
     "path": "content/important-questions/Social Science/Globalisation and the Indian Economy - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Social Science",
-    "title": "Lifelines of National Economy IQ",
-    "filename": "Lifelines of National Economy - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Social Science/Lifelines of National Economy - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Social Science",
-    "title": "Manufacturing Industries IQ",
-    "filename": "Manufacturing Industries - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Social Science/Manufacturing Industries - IQ.pdf"
   },
   {
     "type": "important",
@@ -1325,14 +1285,6 @@ window.REVISE_CONTENT = [
     "filename": "Sectors of the Indian Economy - IQ.pdf",
     "ext": "pdf",
     "path": "content/important-questions/Social Science/Sectors of the Indian Economy - IQ.pdf"
-  },
-  {
-    "type": "important",
-    "subject": "Social Science",
-    "title": "The Age of Industrialisation IQ",
-    "filename": "The Age of Industrialisation - IQ.pdf",
-    "ext": "pdf",
-    "path": "content/important-questions/Social Science/The Age of Industrialisation - IQ.pdf"
   },
   {
     "type": "important",
