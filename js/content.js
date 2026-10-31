@@ -753,10 +753,10 @@ window.REVISE_CONTENT = [
   {
     "type": "important",
     "subject": "English",
-    "title": "The Book That Saved the Earth IQ",
-    "filename": "The Book That Saved the Earth - IQ.pdf",
+    "title": "The Book that Saved the Earth IQ",
+    "filename": "The Book that Saved the Earth - IQ.pdf",
     "ext": "pdf",
-    "path": "content/important-questions/English/The Book That Saved the Earth - IQ.pdf"
+    "path": "content/important-questions/English/The Book that Saved the Earth - IQ.pdf"
   },
   {
     "type": "important",
