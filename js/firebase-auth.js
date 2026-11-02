@@ -1,13 +1,8 @@
+
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.18.0/firebase-app.js";
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.18.0/firebase-analytics.js";
 
-import {
-  getAuth,
-  GoogleAuthProvider,
-  signInWithPopup
-} from "https://www.gstatic.com/firebasejs/12.18.0/firebase-auth.js";
-
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// Firebase Configuration
 const firebaseConfig = {
   apiKey: "AIzaSyC9D9Agl1DYrzPfpkAuS6yV7VuPiSI9zT8",
   authDomain: "one-shot-mastery.firebaseapp.com",
@@ -18,21 +13,15 @@ const firebaseConfig = {
   measurementId: "G-NBJFK92NFP"
 };
 
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
+// Firebase Analytics (Active)
 const analytics = getAnalytics(app);
 
-const auth = getAuth(app);
-const provider = new GoogleAuthProvider();
-
-window.downloadWithGoogleSignIn = async function (pdfPath) {
+// Direct PDF Download (No Sign-In Required)
+window.downloadWithGoogleSignIn = function (pdfPath) {
   try {
-
-    // User login nahi hai to Google Sign-In kholo
-    if (!auth.currentUser) {
-      await signInWithPopup(auth, provider);
-    }
-
-    // Login successful hone ke baad PDF download
     const link = document.createElement("a");
     link.href = pdfPath;
     link.download = "";
@@ -42,13 +31,7 @@ window.downloadWithGoogleSignIn = async function (pdfPath) {
     link.remove();
 
   } catch (error) {
-    console.error("Google Sign-In Error:", error);
-
-    alert(
-      "Sign-In Error:\n" +
-      error.code +
-      "\n\n" +
-      error.message
-   );
+    console.error("PDF Download Error:", error);
+    alert("PDF download failed. Please try again.");
   }
 };
